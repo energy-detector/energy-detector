@@ -1,2 +1,4 @@
 # energy-detector
 给辽科的铁子的能量机关分享
+
+nanodet-plus进行待打击叶片的识别，提取roi进行传统识别寻找pnp所需的特征点为上下两个等条的内侧角点
